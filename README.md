@@ -1,8 +1,8 @@
 # Hi, I'm Anand👋
 
-Engineer obsessed with building systems that don’t fall apart when they hit real traffic. I focus on backend engineering, distributed architectures, and scalable service design. Every project I build aims to look, feel, and behave like production-grade software — clean abstractions, predictable behavior, observable internals, and performance that holds under pressure.
+Backend engineer focused on building systems that scale without drama. I specialize in Java, Spring Boot, and microservice architectures, with a growing obsession for distributed systems and real-time collaboration tech.
 
-I treat backend work like a craft: efficient JVM tuning, resilient microservices, data models that age well, and real-time systems that behave reliably when multiple users collide. Recruiters looking for engineers who think in systems, not snippets — you’re in the right place.
+I like backend work that feels production-ready: clean APIs, predictable services, strong reliability patterns, and architectures built for actual load — not textbook diagrams.
 
 ---
 
