@@ -1,8 +1,8 @@
-#*Hi , I am Anand👋**
+# Hi , I am Anand👋
   
 Computer Science student building production-grade distributed systems. Focused on backend architecture, real-time systems, and scalable infrastructure.
 
-##🚀** What I'm Building**
+## 🚀 What I'm Building
 
 _CodePair - Distributed Real-Time Collaborative Code Editor_
 A production-ready system handling 1000+ concurrent users with microservices architecture, achieving sub-50ms P95 latency for code synchronization.
@@ -14,7 +14,7 @@ Full-stack e-commerce system with integrated payment gateway, Redis caching for 
 Tech Stack: Spring Boot, Spring Security, Redis, PostgreSQL, Payment Gateway Integration
 Features: JWT Authentication | Request Caching | Transaction Management | Low Latency (cached endpoints)
 
-##**💻 Technical Focus**
+## 💻 Technical Focus
 
 Backend & Infrastructure:
 Spring Boot • Kafka • Redis • PostgreSQL • Docker • Microservices
@@ -23,7 +23,7 @@ System Design • Distributed Systems • Computer Networks • WebSocket Protoc
 Exploring:
 Event-Driven Architecture • CQRS • Operational Transform • Load Balancing
 
-##**📝 Writing About Tech**
+## 📝 Writing About Tech
 I write deep technical breakdowns on Medium
 Recent: Building a Distributed Collaborative Editor - Architecture & Design Decisions
 🎯 Current Focus
@@ -32,12 +32,13 @@ Placement preparation (DSA + System Design)
 Building systems that scale (concurrency, fault tolerance, optimization)
 Learning distributed systems concepts through hands-on implementation
 
-####📫 Let's Connect
+#### 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anand-manuvanjay-awasthi-395439304/)
 - Email: awasthijay825@gmai.com
 - Medium: [https://medium.com/@awasthijay825]
 - Twitter: @AwasthiJay11393
+- Codolio card : [https://codolio.com/profile/Jay__1907]
 
 
 **Building systems, not just features. One microservice at a time**.
