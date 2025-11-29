@@ -1,4 +1,4 @@
-  **  Hi, I'm Anand 👋**
+**Hi , I am Anand👋**
   
 Computer Science student building production-grade distributed systems. Focused on backend architecture, real-time systems, and scalable infrastructure.
 
