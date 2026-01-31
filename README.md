@@ -15,11 +15,10 @@ I'm a **Computer Science student** passionate about building **scalable backend 
 ```javascript
 const anand = {
     location: "India 🇮🇳",
-    currentFocus: ["System Design", "DSA", "Placement Prep"],
+    currentFocus: ["DSA", "Placement Prep"],
     learning: ["Distributed Systems", "Microservices", "WebSocket"],
     workingOn: "Interview Live - Real-time Interview Platform",
     askMeAbout: ["Backend Development", "Spring Boot", "System Architecture"],
-    funFact: "I debug in production... on localhost 😅"
 };
 ```
 
@@ -41,7 +40,7 @@ A comprehensive real-time platform currently in development, designed to revolut
 - ⚖️ **Online Judge System** - Automated solution evaluation with test cases
 - 🎨 **Collaborative Whiteboard** - Shared canvas for system design discussions and brainstorming
 - 📁 **File Sharing** - Send/receive documents, resumes, and resources during interviews
-- 🔄 **Real-Time Sync** - Sub-50ms latency for collaborative editing
+- 🔄 **Real-Time Sync** - low latency for collaborative editing
 
 **Tech Stack:** Spring Boot • WebSocket • Redis • PostgreSQL • Kafka • Docker
 
