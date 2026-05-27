@@ -211,7 +211,7 @@ I write about system design, backend architecture, and lessons learned while bui
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@awasthijay825)
 
-**Featured:** *Building Real-Time Systems: Architecture & Design Decisions*
+**Featured:** *Under The Hood series, where I write about Backend from First Principles*
 
 </div>
 
